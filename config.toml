@@ -1,0 +1,48 @@
+baseurl = "https://mafr.eu/"
+languageCode = "de-de"
+title = "mafr.eu"
+theme = "mafr"
+disqusShortname = ""
+# Enable Google Analytics be inserting your tracking code
+googleAnalytics = ""
+# Number of posts per page
+paginate = 10
+
+[params]
+	title = "mafr.eu"
+	subtitle = "IT & Open Source Blog"
+	copyright = "Released under the MIT license."
+	imprintPage = "impressum"
+	imprintString = "Impressum"
+	useSummaryIfNoDescription=true
+
+	# You can choose between green, orange, red and blue.
+	themecolor = "custom"
+
+	# Link custom assets relative to /static
+	favicon   = "favicon.ico"
+	customCSS = []
+	customJS  = []
+
+	# To provide some metadata for search engines and the about section in the footer
+	# feel free to add a few information about you and your website.
+	name = "Marius Freyer"
+	bio = "Student der Wirtschaftsinformatik"
+	description = "IT & Open Source Blog"
+	
+	# Link your social networks (optional)
+	location = ""
+	twitter = ""
+	linkedin = ""
+	googleplus = ""
+	facebook = ""
+	instagram = ""
+	github = "MariusFreyer"
+	gitlab = ""
+	bitbucket = ""
+
+	# Customize or translate the strings
+	keepReadingStr = "Weiterlesen"
+	backtotopStr = "Zum Seitenanfang"
+	shareStr = "Teilen"
+	pageNotFoundTitle = "404 - Seite nicht gefunen"

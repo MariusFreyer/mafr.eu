@@ -1,0 +1,3 @@
+[submodule "themes/mafr"]
+	path = themes/mafr
+	url = https://github.com/MariusFreyer/hugo-steam-theme.git
